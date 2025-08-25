@@ -1,4 +1,5 @@
-google.genetiveai
+google-generativeai
 pymupdf
 Django>=4.2
+
 gunicorn
