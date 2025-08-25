@@ -1,0 +1,4 @@
+google.genetiveai
+pymupdf
+Django>=4.2
+gunicorn
